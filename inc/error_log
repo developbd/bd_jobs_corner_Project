@@ -1,0 +1,7 @@
+[10-Feb-2019 01:27:41 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38
+[10-Feb-2019 01:27:41 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38
+[10-Feb-2019 01:27:41 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38
+[10-Feb-2019 01:27:42 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38
+[10-Feb-2019 01:27:43 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38
+[10-Feb-2019 01:27:44 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38
+[10-Feb-2019 01:27:45 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rappbiooqxiu/public_html/inc/checkdata_user.php on line 38

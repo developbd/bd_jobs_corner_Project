@@ -1,0 +1,138 @@
+*{
+padding:0px;
+margin:0px;
+}
+body,html{
+background:#E7E7E7;
+width: 100%;
+height: 100%;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+#job-searcharea{
+padding:40px 0px;
+}
+.searc-box .form-control{
+font-size:18px;
+border:none;
+padding: 2px 12px;
+height: 41.6px;
+color:#464545;
+}
+.form-control::-moz-placeholder {
+    color: rgba(218,103,15,.6);
+    font-size: 17px;
+    font-weight: 700;
+}
+.btn-default{
+width:85%;
+background:#da670f;
+padding:8px;
+color:#FFFFFF;
+font-size:18px;
+outline:none;
+border:none;
+}
+.btn-default:hover{
+background:#002e5b;
+color:#FFFFFF;
+}
+
+.jobdetail-content{
+background:#FFFFFF;
+padding:10px 20px;
+margin-bottom:30px;
+border-radius:10px;
+}
+.description-heading h4{
+color:#464545;
+font-size:16px;
+}
+.company-detail-wrapper{
+padding:2px 15px 5px;
+border-bottom:3px solid #da670f;
+border-top:1px solid #da670f;
+border-radius:5px;
+margin-bottom:10px;
+background-color:rgba(218,103,15,.1);
+}
+
+.company-detail-wrapper:hover{
+background-color:#FFFFFF;
+}
+
+.company-detail-wrapper{
+transition:.5s;
+-moz-transition:.5s;
+-ms-transition:.5s;
+-o-transition:.5s;
+-webkit-transition:.5s;
+}
+
+.company-name h5{
+color:#002e5b;
+font-size:17px;
+}
+
+.post-name-title{
+color:#36CACC;
+font-size:17px;
+margin-bottom:8px;
+}
+.education-text p{
+color:#3F3F3F;
+font-size:15px;
+margin-bottom:5px;
+font-weight:400;
+}
+
+.experience-text p{
+color:#3F3F3F;
+font-size:15px;
+margin-bottom:5px;
+font-weight:400;
+}
+.job-posted-date{
+width:100%;
+background-color:rgba(218,103,15,.5);
+height:40px;
+line-height:40px;
+margin-top:10px;
+margin-bottom:8px;
+border-radius:5px;
+text-align:center;
+}
+
+.job-posted-date p{
+margin-top:8px;
+color:#F3F3F3;
+font-size:15px;
+font-weight:400;
+}
+.job-posted-date strong{
+color:#da670f;
+font-size:16px;
+}
+
+.job-deadline{
+width:100%;
+background-color:rgba(0,46,91,.8);
+margin-top:10px;
+margin-bottom:8px;
+border-radius:5px;
+text-align:center;
+height:40px;
+line-height:40px;
+}
+.job-deadline p{
+margin-top:8px;
+color:#F3F3F3;
+font-size:15px;
+font-weight:400;
+}
+.job-deadline strong{
+color:#da670f;
+font-size:16px;
+}
+
+
+

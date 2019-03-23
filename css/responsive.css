@@ -1,0 +1,116 @@
+
+@media screen and (max-width:992px){
+.one-company-add img{
+	height:140px;
+	width:292px;
+}
+.company-logo{
+float:left;
+}
+.company-heading ul li {
+margin-left:100px;
+}
+.company-add-leftside{
+margin:0 auto;
+}
+.joinus-heading h1{
+font-size:22px;
+}
+
+}
+
+@media screen and (max-width:920px){
+.latest p{
+font-size:18px;
+}
+.marque-jobs marquee{
+font-size:15px;
+}
+.joinus-heading h1{
+font-size:22px;
+}
+.company-add-leftside{
+margin:0 auto;
+}
+.one-company-add img{
+	height:140px;
+	width:292px;
+}
+.well{
+max-width:292px;
+margin:20px auto;
+}
+
+}
+@media screen and (max-width:768px){
+.search-form input[ type="text"]{
+    width:100%;
+}
+.search-form button[ type="submit"]{
+    margin-left:0px;
+}
+.reg-left-title{
+max-width:390px;
+margin:0 auto;
+}
+.reg-left-title h3{
+font-size:17px;
+text-align:center;
+}
+.reg-left-title p{
+font-size:14px;
+padding:10px;
+}
+.reg-title-social-icon{
+max-width:375px;
+margin:32px auto;
+}
+.well{
+max-width:292px;
+margin:20px auto;
+}
+.search-form select
+{
+max-width:45%;
+float:left;
+}
+.search-form button[ type="submit"]
+{
+width:30%;
+}
+.left-side-add{
+display:none;
+}
+}
+
+@media screen and (max-width:640px){
+.govment-job{
+max-width:292px;
+margin:0 auto;
+}
+.joinus-heading h1{
+font-size:18px;
+}
+.item-list{
+max-width:292px;
+margin:0 auto;
+}
+.job-catagori h1{
+margin-left:140px;
+}
+.job-catagori-list{
+max-width:292px;
+margin:0 auto;
+}
+.well img{
+width:292px;
+margin:20px auto;
+}
+.search-form button[ type="submit"]
+{
+width:35%;
+}
+.left-side-add{
+display:none;
+}
+}
